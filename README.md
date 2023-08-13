@@ -1,6 +1,6 @@
 # Salary Prediction Project
 
-##Introduction:
+## Introduction:
 This collaborative project is our entry for the third data science course competition. Our goal is to predict salaries using a provided dataset. This project showcases our skills in data analysis, feature engineering, and regression modeling.
 
 ##Dataset:
