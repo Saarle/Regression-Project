@@ -9,11 +9,14 @@ We work with a dataset containing salary-related information. It includes featur
 ## Approach:
 Exploratory Data Analysis (EDA): We delved into the dataset to uncover insights, identify patterns, and understand feature relationships.
 
-## Feature Engineering: To enhance model performance, we engineered relevant features, considering various techniques.
+## Feature Engineering:
+To enhance model performance, we engineered relevant features, considering various techniques.
 
-## Model Selection: Multiple regression algorithms were experimented with, including Linear Regression and Random Forest.
+## Model Selection:
+Multiple regression algorithms were experimented with, including Linear Regression and Random Forest.
 
-## Evaluation: Models were evaluated using metrics like Mean Squared Error. The model with the best performance was selected.
+## Evaluation:
+Models were evaluated using metrics like Mean Squared Error. The model with the best performance was selected.
 
 ## Results:
 Our final model achieved [mention performance metric]. We validated assumptions and visualized predictions for practical use.
